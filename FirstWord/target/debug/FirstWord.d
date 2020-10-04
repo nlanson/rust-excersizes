@@ -1,1 +1,1 @@
-C:\Users\Nlanson\Desktop\Coding\rust-excersizes\FirstWord\target\debug\FirstWord.exe: C:\Users\Nlanson\Desktop\Coding\rust-excersizes\FirstWord\src\main.rs
+C:\Users\Nlanson\Desktop\Coding\rust-excersizes\firstword\target\debug\FirstWord.exe: C:\Users\Nlanson\Desktop\Coding\rust-excersizes\firstword\src\main.rs
