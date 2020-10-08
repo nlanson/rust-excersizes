@@ -1,0 +1,12 @@
+C:\Users\Nlanson\Desktop\Coding\rust-excersizes\ip\target\debug\deps\miow-5f55bdc92d6fd7a3.rmeta: C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\lib.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\handle.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\overlapped.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\iocp.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\net.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\pipe.rs
+
+C:\Users\Nlanson\Desktop\Coding\rust-excersizes\ip\target\debug\deps\libmiow-5f55bdc92d6fd7a3.rlib: C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\lib.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\handle.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\overlapped.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\iocp.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\net.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\pipe.rs
+
+C:\Users\Nlanson\Desktop\Coding\rust-excersizes\ip\target\debug\deps\miow-5f55bdc92d6fd7a3.d: C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\lib.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\handle.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\overlapped.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\iocp.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\net.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\pipe.rs
+
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\lib.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\handle.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\overlapped.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\iocp.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\net.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\miow-0.2.1\src\pipe.rs:

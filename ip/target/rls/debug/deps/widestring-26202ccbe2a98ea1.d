@@ -1,0 +1,11 @@
+c:\Users\Nlanson\Desktop\Coding\rust-excersizes\ip\target\rls\debug\deps\widestring-26202ccbe2a98ea1.rmeta: C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\lib.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\platform\mod.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\platform\windows.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ucstr.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ucstring.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ustr.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ustring.rs
+
+c:\Users\Nlanson\Desktop\Coding\rust-excersizes\ip\target\rls\debug\deps\widestring-26202ccbe2a98ea1.d: C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\lib.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\platform\mod.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\platform\windows.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ucstr.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ucstring.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ustr.rs C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ustring.rs
+
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\lib.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\platform\mod.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\platform\windows.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ucstr.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ucstring.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ustr.rs:
+C:\Users\Nlanson\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.3\src\ustring.rs:
