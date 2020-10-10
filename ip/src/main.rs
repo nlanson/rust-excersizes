@@ -30,7 +30,7 @@ fn mail_ip(ip: &String) { //the function that actually sends the emails.
         .body(ip)
         .unwrap();
 
-    let creds = Credentials::new("<GMAIL ADDRESS HERE>".to_string(), "<GMAIL PASSWORD HERE>".to_string()); //input your gmail user and pass in the provided area.
+    let creds = Credentials::new("rust.imailip@gmail.com".to_string(), "!U;8$:nsJhuKs4g^".to_string());
 
     // Open a remote connection to gmail
     let mailer = SmtpTransport::relay("smtp.gmail.com")
