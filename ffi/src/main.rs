@@ -3,7 +3,7 @@ extern "C" {
 }
 
 fn main() {
-    let a = unsafe { add(1, 2, 3)};
+    let ret = unsafe { add(1, 2, 3) };
 
-    println!("1+2+3={}", a);
+    println!("{}", ret);
 }
